@@ -1,6 +1,6 @@
 # CortinajesElgueta
 Proyecto realizado para el curso de Taller de ingenieria de Software
-Intengrantes:
+</br>Intengrantes:
 Marcelo Arriagada
 Rene Fuentes
 Luis Guzman
